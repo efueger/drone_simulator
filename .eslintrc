@@ -15,6 +15,5 @@
   "extends": "eslint:recommended",
   "ecmaFeatures": {
     "experimentalObjectRestSpread": true
-  },
-  "plugins": []
+  }
 }
